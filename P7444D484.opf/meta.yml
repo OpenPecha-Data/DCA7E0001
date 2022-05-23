@@ -1,10 +1,17 @@
 id: P7444D484
+source: https://library.bdrc.io
+source_file: null
 initial_creation_type: ocr
+imported: '2021-12-27T08:25:03+00:00'
+last_modified: '2022-05-23T05:05:28.123380+00:00'
+parser: https://github.com/OpenPecha-dev/openpecha-toolkit/blob/a7eec5e12ddce18d0ed1dbb732a42cf48f94dd09/openpecha/formatters/hfml.py
 source_metadata:
-  volumes:
-    4a64b6d8d2a34aa89f387af63a565dc3:
-      base_file: v001.txt
+  base:
+    dd5d:
       image_group_id: I1PD95846
       title: ཁྱད་པར་དུ་འཕགས་པའི་བསྟོད་པ།
       total_pages: 1539
-      volume_number: 1
+      order: 1
+      base_file: dd5d.txt
+statistics: {}
+quality: {}
